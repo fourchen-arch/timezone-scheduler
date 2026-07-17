@@ -1,0 +1,14 @@
+{
+  "name": "render-timezone-scheduler",
+  "version": "1.0.0",
+  "description": "Fixed-Term Timezone and Overnight Scheduling Sandbox",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "luxon": "^3.4.4",
+    "pg": "^8.11.5"
+  }
+}
